@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Warehouse Performance Dashboard</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <div>
+      <p class="eyebrow">EverPretty WMS</p>
+      <h1>Warehouse Performance</h1>
+    </div>
+    <div class="status">
+      <span>Last update</span>
+      <strong id="lastUpdate">Loading...</strong>
+    </div>
+  </header>
+
+  <main>
+    <section class="summary-grid" aria-label="Current totals">
+      <article class="summary-card">
+        <span>Unpackaged</span>
+        <strong id="handoverCount">--</strong>
+        <small id="handoverChange">Waiting for data</small>
+      </article>
+      <article class="summary-card">
+        <span>Top Scan</span>
+        <strong id="topScan">--</strong>
+        <small id="topScanDetail">Waiting for data</small>
+      </article>
+      <article class="summary-card">
+        <span>Top Putaway</span>
+        <strong id="topPutaway">--</strong>
+        <small id="topPutawayDetail">Waiting for data</small>
+      </article>
+    </section>
+
+    <section class="board-grid">
+      <article class="board">
+        <div class="board-head">
+          <div>
+            <p class="eyebrow">KPI Assessment</p>
+            <h2>Scan Leaderboard</h2>
+          </div>
+          <span class="metric-label">Total scans</span>
+        </div>
+        <div id="scanBoard" class="leaderboard"></div>
+      </article>
+
+      <article class="board">
+        <div class="board-head">
+          <div>
+            <p class="eyebrow">KPI Assessment</p>
+            <h2>Putaway Leaderboard</h2>
+          </div>
+          <span class="metric-label">Total putaway</span>
+        </div>
+        <div id="putawayBoard" class="leaderboard"></div>
+      </article>
+    </section>
+
+    <section class="history">
+      <div class="board-head">
+        <div>
+          <p class="eyebrow">Hourly trend</p>
+          <h2>Unpackaged Count</h2>
+        </div>
+      </div>
+      <div id="handoverHistory" class="history-list"></div>
+    </section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
