@@ -14,12 +14,12 @@ const gainText = (item) => {
   return `+${formatNumber(lastHour)} last run, +${formatNumber(today)} today`;
 };
 
-const renderLeaderboard = (id, rows) => {
+const renderLeaderboard = (id, rows, emptyText = "No data yet.") => {
   const board = document.getElementById(id);
   if (!board) return;
 
   if (!rows || rows.length === 0) {
-    board.innerHTML = '<div class="empty">No data yet.</div>';
+    board.innerHTML = `<div class="empty">${emptyText}</div>`;
     return;
   }
 
@@ -71,10 +71,10 @@ const loadDashboard = async () => {
   setText("topScan", topScan ? topScan.employee : "--");
   setText("topScanDetail", topScan ? `${formatNumber(topScan.total)} total scans` : "No data yet");
   setText("topPutaway", topPutaway ? topPutaway.employee : "--");
-  setText("topPutawayDetail", topPutaway ? `${formatNumber(topPutaway.total)} total putaway` : "No data yet");
+  setText("topPutawayDetail", topPutaway ? `${formatNumber(topPutaway.total)} total putaway` : "0 total putaway this week");
 
   renderLeaderboard("scanBoard", data.scan || []);
-  renderLeaderboard("putawayBoard", data.putaway || []);
+  renderLeaderboard("putawayBoard", data.putaway || [], "0 putaway this week.");
   renderHandoverHistory((handover && handover.history) || []);
 };
 
