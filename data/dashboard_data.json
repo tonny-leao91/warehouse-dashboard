@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-06-01 09:01",
+  "generated_at": "2026-06-01 10:00",
   "week_start": "2026-06-01",
-  "latest_update": "2026-06-01 09:01",
+  "latest_update": "2026-06-01 10:00",
   "scan": [
     {
       "employee": "Patricia",
-      "total": 219,
-      "today_gain": 146,
-      "last_hour_gain": 146,
-      "updated_at": "2026-06-01 09:01",
+      "total": 398,
+      "today_gain": 325,
+      "last_hour_gain": 179,
+      "updated_at": "2026-06-01 10:00",
       "history": [
         {
           "timestamp": "2026-06-01 08:00",
@@ -17,15 +17,19 @@
         {
           "timestamp": "2026-06-01 09:01",
           "total": 219
+        },
+        {
+          "timestamp": "2026-06-01 10:00",
+          "total": 398
         }
       ]
     },
     {
       "employee": "Lucky",
-      "total": 166,
-      "today_gain": 91,
-      "last_hour_gain": 91,
-      "updated_at": "2026-06-01 09:01",
+      "total": 264,
+      "today_gain": 189,
+      "last_hour_gain": 98,
+      "updated_at": "2026-06-01 10:00",
       "history": [
         {
           "timestamp": "2026-06-01 08:00",
@@ -34,15 +38,19 @@
         {
           "timestamp": "2026-06-01 09:01",
           "total": 166
+        },
+        {
+          "timestamp": "2026-06-01 10:00",
+          "total": 264
         }
       ]
     },
     {
       "employee": "Brenda",
-      "total": 125,
-      "today_gain": 94,
-      "last_hour_gain": 94,
-      "updated_at": "2026-06-01 09:01",
+      "total": 227,
+      "today_gain": 196,
+      "last_hour_gain": 102,
+      "updated_at": "2026-06-01 10:00",
       "history": [
         {
           "timestamp": "2026-06-01 08:00",
@@ -51,15 +59,19 @@
         {
           "timestamp": "2026-06-01 09:01",
           "total": 125
+        },
+        {
+          "timestamp": "2026-06-01 10:00",
+          "total": 227
         }
       ]
     },
     {
       "employee": "Irania M",
-      "total": 114,
-      "today_gain": 69,
-      "last_hour_gain": 69,
-      "updated_at": "2026-06-01 09:01",
+      "total": 202,
+      "today_gain": 157,
+      "last_hour_gain": 88,
+      "updated_at": "2026-06-01 10:00",
       "history": [
         {
           "timestamp": "2026-06-01 08:00",
@@ -68,15 +80,19 @@
         {
           "timestamp": "2026-06-01 09:01",
           "total": 114
+        },
+        {
+          "timestamp": "2026-06-01 10:00",
+          "total": 202
         }
       ]
     },
     {
       "employee": "Brendan",
-      "total": 86,
-      "today_gain": 54,
-      "last_hour_gain": 54,
-      "updated_at": "2026-06-01 09:01",
+      "total": 147,
+      "today_gain": 115,
+      "last_hour_gain": 61,
+      "updated_at": "2026-06-01 10:00",
       "history": [
         {
           "timestamp": "2026-06-01 08:00",
@@ -85,33 +101,37 @@
         {
           "timestamp": "2026-06-01 09:01",
           "total": 86
+        },
+        {
+          "timestamp": "2026-06-01 10:00",
+          "total": 147
         }
       ]
     },
     {
       "employee": "Carolina M",
-      "total": 18,
-      "today_gain": 0,
-      "last_hour_gain": 0,
-      "updated_at": "2026-06-01 09:01",
+      "total": 111,
+      "today_gain": 93,
+      "last_hour_gain": 93,
+      "updated_at": "2026-06-01 10:00",
       "history": [
         {
           "timestamp": "2026-06-01 09:01",
           "total": 18
+        },
+        {
+          "timestamp": "2026-06-01 10:00",
+          "total": 111
         }
       ]
     }
   ],
   "putaway": [],
   "handover": {
-    "latest_count": 1257,
-    "last_hour_change": -459,
-    "updated_at": "2026-06-01 09:00",
+    "latest_count": 635,
+    "last_hour_change": -622,
+    "updated_at": "2026-06-01 10:00",
     "history": [
-      {
-        "timestamp": "2026-05-29 07:05",
-        "count": 642
-      },
       {
         "timestamp": "2026-05-29 08:00",
         "count": 595
@@ -155,6 +175,10 @@
       {
         "timestamp": "2026-06-01 09:00",
         "count": 1257
+      },
+      {
+        "timestamp": "2026-06-01 10:00",
+        "count": 635
       }
     ]
   }
