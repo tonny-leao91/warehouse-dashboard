@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-08 12:00",
+  "generated_at": "2026-06-08 13:01",
   "week_start": "2026-06-08",
-  "latest_update": "2026-06-08 12:00",
+  "latest_update": "2026-06-08 13:00",
   "scan": [
     {
       "employee": "Patricia",
@@ -190,14 +190,10 @@
     }
   ],
   "handover": {
-    "latest_count": 34,
-    "last_hour_change": -15,
-    "updated_at": "2026-06-08 12:00",
+    "latest_count": 22,
+    "last_hour_change": -12,
+    "updated_at": "2026-06-08 13:00",
     "history": [
-      {
-        "timestamp": "2026-06-05 10:00",
-        "count": 43
-      },
       {
         "timestamp": "2026-06-05 11:00",
         "count": 40
@@ -241,6 +237,10 @@
       {
         "timestamp": "2026-06-08 12:00",
         "count": 34
+      },
+      {
+        "timestamp": "2026-06-08 13:00",
+        "count": 22
       }
     ]
   }
