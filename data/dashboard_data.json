@@ -1,19 +1,15 @@
 {
-  "generated_at": "2026-06-10 07:28",
+  "generated_at": "2026-06-10 08:01",
   "week_start": "2026-06-08",
-  "latest_update": "2026-06-10 07:28",
+  "latest_update": "2026-06-10 08:01",
   "scan": [
     {
       "employee": "Patricia",
-      "total": 817,
-      "today_gain": 0,
-      "last_hour_gain": 33,
-      "updated_at": "2026-06-10 07:28",
+      "total": 828,
+      "today_gain": 11,
+      "last_hour_gain": 11,
+      "updated_at": "2026-06-10 08:01",
       "history": [
-        {
-          "timestamp": "2026-06-08 14:00",
-          "total": 463
-        },
         {
           "timestamp": "2026-06-08 15:01",
           "total": 465
@@ -57,20 +53,20 @@
         {
           "timestamp": "2026-06-10 07:28",
           "total": 817
+        },
+        {
+          "timestamp": "2026-06-10 08:01",
+          "total": 828
         }
       ]
     },
     {
       "employee": "Brenda",
-      "total": 617,
-      "today_gain": 0,
-      "last_hour_gain": 42,
-      "updated_at": "2026-06-10 07:28",
+      "total": 677,
+      "today_gain": 60,
+      "last_hour_gain": 60,
+      "updated_at": "2026-06-10 08:01",
       "history": [
-        {
-          "timestamp": "2026-06-08 14:00",
-          "total": 359
-        },
         {
           "timestamp": "2026-06-08 15:01",
           "total": 359
@@ -114,20 +110,20 @@
         {
           "timestamp": "2026-06-10 07:28",
           "total": 617
+        },
+        {
+          "timestamp": "2026-06-10 08:01",
+          "total": 677
         }
       ]
     },
     {
       "employee": "Lucky",
-      "total": 539,
-      "today_gain": 0,
-      "last_hour_gain": 23,
-      "updated_at": "2026-06-10 07:28",
+      "total": 603,
+      "today_gain": 64,
+      "last_hour_gain": 64,
+      "updated_at": "2026-06-10 08:01",
       "history": [
-        {
-          "timestamp": "2026-06-08 14:00",
-          "total": 267
-        },
         {
           "timestamp": "2026-06-08 15:01",
           "total": 267
@@ -171,6 +167,10 @@
         {
           "timestamp": "2026-06-10 07:28",
           "total": 539
+        },
+        {
+          "timestamp": "2026-06-10 08:01",
+          "total": 603
         }
       ]
     },
@@ -179,12 +179,8 @@
       "total": 296,
       "today_gain": 0,
       "last_hour_gain": 0,
-      "updated_at": "2026-06-10 07:28",
+      "updated_at": "2026-06-10 08:01",
       "history": [
-        {
-          "timestamp": "2026-06-08 14:00",
-          "total": 296
-        },
         {
           "timestamp": "2026-06-08 15:01",
           "total": 296
@@ -227,6 +223,10 @@
         },
         {
           "timestamp": "2026-06-10 07:28",
+          "total": 296
+        },
+        {
+          "timestamp": "2026-06-10 08:01",
           "total": 296
         }
       ]
@@ -236,12 +236,8 @@
       "total": 203,
       "today_gain": 0,
       "last_hour_gain": 0,
-      "updated_at": "2026-06-10 07:28",
+      "updated_at": "2026-06-10 08:01",
       "history": [
-        {
-          "timestamp": "2026-06-08 14:00",
-          "total": 204
-        },
         {
           "timestamp": "2026-06-08 15:01",
           "total": 204
@@ -284,6 +280,10 @@
         },
         {
           "timestamp": "2026-06-10 07:28",
+          "total": 203
+        },
+        {
+          "timestamp": "2026-06-10 08:01",
           "total": 203
         }
       ]
@@ -293,12 +293,8 @@
       "total": 190,
       "today_gain": 0,
       "last_hour_gain": 0,
-      "updated_at": "2026-06-10 07:28",
+      "updated_at": "2026-06-10 08:01",
       "history": [
-        {
-          "timestamp": "2026-06-08 14:00",
-          "total": 190
-        },
         {
           "timestamp": "2026-06-08 15:01",
           "total": 190
@@ -341,6 +337,10 @@
         },
         {
           "timestamp": "2026-06-10 07:28",
+          "total": 190
+        },
+        {
+          "timestamp": "2026-06-10 08:01",
           "total": 190
         }
       ]
@@ -351,13 +351,9 @@
       "employee": "Lucky N",
       "total": 1490,
       "today_gain": 0,
-      "last_hour_gain": 7,
-      "updated_at": "2026-06-10 07:28",
+      "last_hour_gain": 0,
+      "updated_at": "2026-06-10 08:01",
       "history": [
-        {
-          "timestamp": "2026-06-08 14:00",
-          "total": 498
-        },
         {
           "timestamp": "2026-06-08 15:01",
           "total": 602
@@ -401,6 +397,10 @@
         {
           "timestamp": "2026-06-10 07:28",
           "total": 1490
+        },
+        {
+          "timestamp": "2026-06-10 08:01",
+          "total": 1490
         }
       ]
     },
@@ -409,12 +409,8 @@
       "total": 921,
       "today_gain": 0,
       "last_hour_gain": 0,
-      "updated_at": "2026-06-10 07:28",
+      "updated_at": "2026-06-10 08:01",
       "history": [
-        {
-          "timestamp": "2026-06-08 14:00",
-          "total": 99
-        },
         {
           "timestamp": "2026-06-08 15:01",
           "total": 197
@@ -458,6 +454,10 @@
         {
           "timestamp": "2026-06-10 07:28",
           "total": 921
+        },
+        {
+          "timestamp": "2026-06-10 08:01",
+          "total": 921
         }
       ]
     },
@@ -466,7 +466,7 @@
       "total": 608,
       "today_gain": 0,
       "last_hour_gain": 0,
-      "updated_at": "2026-06-10 07:28",
+      "updated_at": "2026-06-10 08:01",
       "history": [
         {
           "timestamp": "2026-06-08 15:01",
@@ -511,6 +511,10 @@
         {
           "timestamp": "2026-06-10 07:28",
           "total": 608
+        },
+        {
+          "timestamp": "2026-06-10 08:01",
+          "total": 608
         }
       ]
     },
@@ -519,7 +523,7 @@
       "total": 193,
       "today_gain": 0,
       "last_hour_gain": 0,
-      "updated_at": "2026-06-10 07:28",
+      "updated_at": "2026-06-10 08:01",
       "history": [
         {
           "timestamp": "2026-06-09 11:00",
@@ -544,6 +548,10 @@
         {
           "timestamp": "2026-06-10 07:28",
           "total": 193
+        },
+        {
+          "timestamp": "2026-06-10 08:01",
+          "total": 193
         }
       ]
     },
@@ -552,7 +560,7 @@
       "total": 100,
       "today_gain": 0,
       "last_hour_gain": 0,
-      "updated_at": "2026-06-10 07:28",
+      "updated_at": "2026-06-10 08:01",
       "history": [
         {
           "timestamp": "2026-06-09 15:00",
@@ -560,6 +568,10 @@
         },
         {
           "timestamp": "2026-06-10 07:28",
+          "total": 100
+        },
+        {
+          "timestamp": "2026-06-10 08:01",
           "total": 100
         }
       ]
@@ -569,7 +581,7 @@
       "total": 58,
       "today_gain": 0,
       "last_hour_gain": 0,
-      "updated_at": "2026-06-10 07:28",
+      "updated_at": "2026-06-10 08:01",
       "history": [
         {
           "timestamp": "2026-06-09 10:00",
@@ -597,6 +609,10 @@
         },
         {
           "timestamp": "2026-06-10 07:28",
+          "total": 58
+        },
+        {
+          "timestamp": "2026-06-10 08:01",
           "total": 58
         }
       ]
