@@ -1,18 +1,80 @@
 {
-  "generated_at": "2026-06-15 07:01",
+  "generated_at": "2026-06-15 07:37",
   "week_start": "2026-06-15",
-  "latest_update": "2026-06-12 15:00",
-  "scan": [],
+  "latest_update": "2026-06-15 07:36",
+  "scan": [
+    {
+      "employee": "Brenda",
+      "total": 62,
+      "today_gain": 0,
+      "last_hour_gain": 0,
+      "updated_at": "2026-06-15 07:36",
+      "history": [
+        {
+          "timestamp": "2026-06-15 07:36",
+          "total": 62
+        }
+      ]
+    },
+    {
+      "employee": "Lucky",
+      "total": 36,
+      "today_gain": 0,
+      "last_hour_gain": 0,
+      "updated_at": "2026-06-15 07:36",
+      "history": [
+        {
+          "timestamp": "2026-06-15 07:36",
+          "total": 36
+        }
+      ]
+    },
+    {
+      "employee": "Patricia",
+      "total": 27,
+      "today_gain": 0,
+      "last_hour_gain": 0,
+      "updated_at": "2026-06-15 07:36",
+      "history": [
+        {
+          "timestamp": "2026-06-15 07:36",
+          "total": 27
+        }
+      ]
+    },
+    {
+      "employee": "Carolina M",
+      "total": 21,
+      "today_gain": 0,
+      "last_hour_gain": 0,
+      "updated_at": "2026-06-15 07:36",
+      "history": [
+        {
+          "timestamp": "2026-06-15 07:36",
+          "total": 21
+        }
+      ]
+    },
+    {
+      "employee": "Brendan",
+      "total": 7,
+      "today_gain": 0,
+      "last_hour_gain": 0,
+      "updated_at": "2026-06-15 07:36",
+      "history": [
+        {
+          "timestamp": "2026-06-15 07:36",
+          "total": 7
+        }
+      ]
+    }
+  ],
   "putaway": [],
   "handover": {
-    "latest_count": 2,
-    "last_hour_change": 0,
-    "updated_at": "2026-06-12 15:00",
+    "latest_count": 1176,
+    "last_hour_change": 1174,
+    "updated_at": "2026-06-15 07:36",
     "history": [
-      {
-        "timestamp": "2026-06-11 12:00",
-        "count": 0
-      },
       {
         "timestamp": "2026-06-11 13:00",
         "count": 0
@@ -56,6 +118,10 @@
       {
         "timestamp": "2026-06-12 15:00",
         "count": 2
+      },
+      {
+        "timestamp": "2026-06-15 07:36",
+        "count": 1176
       }
     ]
   }
