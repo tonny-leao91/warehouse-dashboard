@@ -1,18 +1,67 @@
 {
-  "generated_at": "2026-06-22 07:01",
+  "generated_at": "2026-06-22 08:01",
   "week_start": "2026-06-22",
-  "latest_update": "2026-06-22 07:00",
-  "scan": [],
+  "latest_update": "2026-06-22 08:00",
+  "scan": [
+    {
+      "employee": "Patricia",
+      "total": 97,
+      "today_gain": 0,
+      "last_hour_gain": 0,
+      "updated_at": "2026-06-22 08:00",
+      "history": [
+        {
+          "timestamp": "2026-06-22 08:00",
+          "total": 97
+        }
+      ]
+    },
+    {
+      "employee": "Irania M",
+      "total": 90,
+      "today_gain": 0,
+      "last_hour_gain": 0,
+      "updated_at": "2026-06-22 08:00",
+      "history": [
+        {
+          "timestamp": "2026-06-22 08:00",
+          "total": 90
+        }
+      ]
+    },
+    {
+      "employee": "Brendan",
+      "total": 15,
+      "today_gain": 0,
+      "last_hour_gain": 0,
+      "updated_at": "2026-06-22 08:00",
+      "history": [
+        {
+          "timestamp": "2026-06-22 08:00",
+          "total": 15
+        }
+      ]
+    },
+    {
+      "employee": "Brenda",
+      "total": 13,
+      "today_gain": 0,
+      "last_hour_gain": 0,
+      "updated_at": "2026-06-22 08:00",
+      "history": [
+        {
+          "timestamp": "2026-06-22 08:00",
+          "total": 13
+        }
+      ]
+    }
+  ],
   "putaway": [],
   "handover": {
-    "latest_count": 1254,
-    "last_hour_change": 1254,
-    "updated_at": "2026-06-22 07:00",
+    "latest_count": 1044,
+    "last_hour_change": -210,
+    "updated_at": "2026-06-22 08:00",
     "history": [
-      {
-        "timestamp": "2026-06-18 15:00",
-        "count": 0
-      },
       {
         "timestamp": "2026-06-19 08:00",
         "count": 466
@@ -56,6 +105,10 @@
       {
         "timestamp": "2026-06-22 07:00",
         "count": 1254
+      },
+      {
+        "timestamp": "2026-06-22 08:00",
+        "count": 1044
       }
     ]
   }
