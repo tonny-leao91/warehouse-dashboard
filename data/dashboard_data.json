@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-06-22 13:01",
+  "generated_at": "2026-06-22 14:01",
   "week_start": "2026-06-22",
-  "latest_update": "2026-06-22 13:00",
+  "latest_update": "2026-06-22 14:01",
   "scan": [
     {
       "employee": "Patricia",
-      "total": 492,
-      "today_gain": 395,
-      "last_hour_gain": 8,
-      "updated_at": "2026-06-22 13:00",
+      "total": 493,
+      "today_gain": 396,
+      "last_hour_gain": 1,
+      "updated_at": "2026-06-22 14:00",
       "history": [
         {
           "timestamp": "2026-06-22 08:00",
@@ -37,6 +37,10 @@
         {
           "timestamp": "2026-06-22 13:00",
           "total": 492
+        },
+        {
+          "timestamp": "2026-06-22 14:00",
+          "total": 493
         }
       ]
     },
@@ -44,8 +48,8 @@
       "employee": "Brenda",
       "total": 349,
       "today_gain": 336,
-      "last_hour_gain": -2,
-      "updated_at": "2026-06-22 13:00",
+      "last_hour_gain": 0,
+      "updated_at": "2026-06-22 14:00",
       "history": [
         {
           "timestamp": "2026-06-22 08:00",
@@ -74,6 +78,10 @@
         {
           "timestamp": "2026-06-22 13:00",
           "total": 349
+        },
+        {
+          "timestamp": "2026-06-22 14:00",
+          "total": 349
         }
       ]
     },
@@ -82,7 +90,7 @@
       "total": 237,
       "today_gain": 147,
       "last_hour_gain": 0,
-      "updated_at": "2026-06-22 13:00",
+      "updated_at": "2026-06-22 14:00",
       "history": [
         {
           "timestamp": "2026-06-22 08:00",
@@ -111,6 +119,10 @@
         {
           "timestamp": "2026-06-22 13:00",
           "total": 237
+        },
+        {
+          "timestamp": "2026-06-22 14:00",
+          "total": 237
         }
       ]
     },
@@ -119,7 +131,7 @@
       "total": 172,
       "today_gain": 157,
       "last_hour_gain": 0,
-      "updated_at": "2026-06-22 13:00",
+      "updated_at": "2026-06-22 14:00",
       "history": [
         {
           "timestamp": "2026-06-22 08:00",
@@ -148,6 +160,10 @@
         {
           "timestamp": "2026-06-22 13:00",
           "total": 172
+        },
+        {
+          "timestamp": "2026-06-22 14:00",
+          "total": 172
         }
       ]
     }
@@ -157,8 +173,8 @@
       "employee": "Brenda",
       "total": 272,
       "today_gain": 173,
-      "last_hour_gain": 74,
-      "updated_at": "2026-06-22 13:00",
+      "last_hour_gain": 0,
+      "updated_at": "2026-06-22 14:01",
       "history": [
         {
           "timestamp": "2026-06-22 11:01",
@@ -171,32 +187,49 @@
         {
           "timestamp": "2026-06-22 13:00",
           "total": 272
+        },
+        {
+          "timestamp": "2026-06-22 14:01",
+          "total": 272
         }
       ]
     },
     {
       "employee": "Lilly",
-      "total": 8,
-      "today_gain": 0,
-      "last_hour_gain": 0,
-      "updated_at": "2026-06-22 13:00",
+      "total": 212,
+      "today_gain": 204,
+      "last_hour_gain": 204,
+      "updated_at": "2026-06-22 14:01",
       "history": [
         {
           "timestamp": "2026-06-22 13:00",
           "total": 8
+        },
+        {
+          "timestamp": "2026-06-22 14:01",
+          "total": 212
+        }
+      ]
+    },
+    {
+      "employee": "Kylie",
+      "total": 146,
+      "today_gain": 0,
+      "last_hour_gain": 0,
+      "updated_at": "2026-06-22 14:01",
+      "history": [
+        {
+          "timestamp": "2026-06-22 14:01",
+          "total": 146
         }
       ]
     }
   ],
   "handover": {
-    "latest_count": 2,
-    "last_hour_change": -12,
-    "updated_at": "2026-06-22 13:00",
+    "latest_count": 1,
+    "last_hour_change": -1,
+    "updated_at": "2026-06-22 14:00",
     "history": [
-      {
-        "timestamp": "2026-06-19 12:00",
-        "count": 0
-      },
       {
         "timestamp": "2026-06-19 13:00",
         "count": 0
@@ -240,6 +273,10 @@
       {
         "timestamp": "2026-06-22 13:00",
         "count": 2
+      },
+      {
+        "timestamp": "2026-06-22 14:00",
+        "count": 1
       }
     ]
   }
