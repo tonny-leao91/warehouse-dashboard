@@ -1,58 +1,79 @@
 {
-  "generated_at": "2026-07-06 07:36",
+  "generated_at": "2026-07-06 08:00",
   "week_start": "2026-07-06",
-  "latest_update": "2026-07-06 07:36",
+  "latest_update": "2026-07-06 08:00",
   "scan": [
     {
       "employee": "Irania M",
-      "total": 47,
-      "today_gain": 0,
-      "last_hour_gain": 0,
-      "updated_at": "2026-07-06 07:36",
+      "total": 89,
+      "today_gain": 42,
+      "last_hour_gain": 42,
+      "updated_at": "2026-07-06 08:00",
       "history": [
         {
           "timestamp": "2026-07-06 07:36",
           "total": 47
+        },
+        {
+          "timestamp": "2026-07-06 08:00",
+          "total": 89
         }
       ]
     },
     {
       "employee": "Brendan",
-      "total": 12,
-      "today_gain": 0,
-      "last_hour_gain": 0,
-      "updated_at": "2026-07-06 07:36",
+      "total": 58,
+      "today_gain": 46,
+      "last_hour_gain": 46,
+      "updated_at": "2026-07-06 08:00",
       "history": [
         {
           "timestamp": "2026-07-06 07:36",
           "total": 12
+        },
+        {
+          "timestamp": "2026-07-06 08:00",
+          "total": 58
+        }
+      ]
+    },
+    {
+      "employee": "Lucky",
+      "total": 58,
+      "today_gain": 0,
+      "last_hour_gain": 0,
+      "updated_at": "2026-07-06 08:00",
+      "history": [
+        {
+          "timestamp": "2026-07-06 08:00",
+          "total": 58
         }
       ]
     },
     {
       "employee": "Patricia",
-      "total": 8,
-      "today_gain": 0,
-      "last_hour_gain": 0,
-      "updated_at": "2026-07-06 07:36",
+      "total": 46,
+      "today_gain": 38,
+      "last_hour_gain": 38,
+      "updated_at": "2026-07-06 08:00",
       "history": [
         {
           "timestamp": "2026-07-06 07:36",
           "total": 8
+        },
+        {
+          "timestamp": "2026-07-06 08:00",
+          "total": 46
         }
       ]
     }
   ],
   "putaway": [],
   "handover": {
-    "latest_count": 2472,
-    "last_hour_change": 2469,
-    "updated_at": "2026-07-06 07:36",
+    "latest_count": 2289,
+    "last_hour_change": -183,
+    "updated_at": "2026-07-06 08:00",
     "history": [
-      {
-        "timestamp": "2026-07-01 14:00",
-        "count": 0
-      },
       {
         "timestamp": "2026-07-01 15:00",
         "count": 0
@@ -96,6 +117,10 @@
       {
         "timestamp": "2026-07-06 07:36",
         "count": 2472
+      },
+      {
+        "timestamp": "2026-07-06 08:00",
+        "count": 2289
       }
     ]
   }
