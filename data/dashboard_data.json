@@ -1,19 +1,15 @@
 {
-  "generated_at": "2026-07-07 14:01",
+  "generated_at": "2026-07-07 15:01",
   "week_start": "2026-07-06",
-  "latest_update": "2026-07-07 14:00",
+  "latest_update": "2026-07-07 15:00",
   "scan": [
     {
       "employee": "Lucky",
       "total": 721,
       "today_gain": 294,
       "last_hour_gain": 0,
-      "updated_at": "2026-07-07 13:00",
+      "updated_at": "2026-07-07 15:00",
       "history": [
-        {
-          "timestamp": "2026-07-06 09:01",
-          "total": 202
-        },
         {
           "timestamp": "2026-07-06 10:00",
           "total": 291
@@ -57,6 +53,10 @@
         {
           "timestamp": "2026-07-07 13:00",
           "total": 721
+        },
+        {
+          "timestamp": "2026-07-07 15:00",
+          "total": 721
         }
       ]
     },
@@ -65,12 +65,8 @@
       "total": 624,
       "today_gain": 223,
       "last_hour_gain": 0,
-      "updated_at": "2026-07-07 13:00",
+      "updated_at": "2026-07-07 15:00",
       "history": [
-        {
-          "timestamp": "2026-07-06 09:01",
-          "total": 112
-        },
         {
           "timestamp": "2026-07-06 10:00",
           "total": 214
@@ -114,6 +110,10 @@
         {
           "timestamp": "2026-07-07 13:00",
           "total": 624
+        },
+        {
+          "timestamp": "2026-07-07 15:00",
+          "total": 624
         }
       ]
     },
@@ -122,12 +122,8 @@
       "total": 611,
       "today_gain": 202,
       "last_hour_gain": 0,
-      "updated_at": "2026-07-07 13:00",
+      "updated_at": "2026-07-07 15:00",
       "history": [
-        {
-          "timestamp": "2026-07-06 09:01",
-          "total": 118
-        },
         {
           "timestamp": "2026-07-06 10:00",
           "total": 237
@@ -171,6 +167,10 @@
         {
           "timestamp": "2026-07-07 13:00",
           "total": 611
+        },
+        {
+          "timestamp": "2026-07-07 15:00",
+          "total": 611
         }
       ]
     },
@@ -179,12 +179,8 @@
       "total": 517,
       "today_gain": 0,
       "last_hour_gain": 0,
-      "updated_at": "2026-07-07 13:00",
+      "updated_at": "2026-07-07 15:00",
       "history": [
-        {
-          "timestamp": "2026-07-06 09:01",
-          "total": 195
-        },
         {
           "timestamp": "2026-07-06 10:00",
           "total": 318
@@ -228,6 +224,10 @@
         {
           "timestamp": "2026-07-07 13:00",
           "total": 517
+        },
+        {
+          "timestamp": "2026-07-07 15:00",
+          "total": 517
         }
       ]
     },
@@ -236,12 +236,8 @@
       "total": 405,
       "today_gain": 0,
       "last_hour_gain": 0,
-      "updated_at": "2026-07-07 13:00",
+      "updated_at": "2026-07-07 15:00",
       "history": [
-        {
-          "timestamp": "2026-07-06 09:01",
-          "total": 211
-        },
         {
           "timestamp": "2026-07-06 10:00",
           "total": 300
@@ -285,6 +281,10 @@
         {
           "timestamp": "2026-07-07 13:00",
           "total": 405
+        },
+        {
+          "timestamp": "2026-07-07 15:00",
+          "total": 405
         }
       ]
     },
@@ -293,12 +293,8 @@
       "total": 298,
       "today_gain": 0,
       "last_hour_gain": 0,
-      "updated_at": "2026-07-07 13:00",
+      "updated_at": "2026-07-07 15:00",
       "history": [
-        {
-          "timestamp": "2026-07-06 09:01",
-          "total": 143
-        },
         {
           "timestamp": "2026-07-06 10:00",
           "total": 239
@@ -342,6 +338,10 @@
         {
           "timestamp": "2026-07-07 13:00",
           "total": 298
+        },
+        {
+          "timestamp": "2026-07-07 15:00",
+          "total": 298
         }
       ]
     },
@@ -350,12 +350,8 @@
       "total": 187,
       "today_gain": 0,
       "last_hour_gain": 0,
-      "updated_at": "2026-07-07 13:00",
+      "updated_at": "2026-07-07 15:00",
       "history": [
-        {
-          "timestamp": "2026-07-06 09:01",
-          "total": 66
-        },
         {
           "timestamp": "2026-07-06 10:00",
           "total": 138
@@ -399,6 +395,10 @@
         {
           "timestamp": "2026-07-07 13:00",
           "total": 187
+        },
+        {
+          "timestamp": "2026-07-07 15:00",
+          "total": 187
         }
       ]
     }
@@ -406,10 +406,10 @@
   "putaway": [
     {
       "employee": "Lilly",
-      "total": 343,
-      "today_gain": 218,
-      "last_hour_gain": 0,
-      "updated_at": "2026-07-07 13:01",
+      "total": 455,
+      "today_gain": 330,
+      "last_hour_gain": 112,
+      "updated_at": "2026-07-07 15:00",
       "history": [
         {
           "timestamp": "2026-07-07 10:01",
@@ -422,15 +422,19 @@
         {
           "timestamp": "2026-07-07 13:01",
           "total": 343
+        },
+        {
+          "timestamp": "2026-07-07 15:00",
+          "total": 455
         }
       ]
     },
     {
       "employee": "Lucky N",
-      "total": 318,
-      "today_gain": 220,
-      "last_hour_gain": 188,
-      "updated_at": "2026-07-07 13:01",
+      "total": 326,
+      "today_gain": 228,
+      "last_hour_gain": 8,
+      "updated_at": "2026-07-07 15:00",
       "history": [
         {
           "timestamp": "2026-07-06 14:00",
@@ -459,15 +463,19 @@
         {
           "timestamp": "2026-07-07 13:01",
           "total": 318
+        },
+        {
+          "timestamp": "2026-07-07 15:00",
+          "total": 326
         }
       ]
     },
     {
       "employee": "Yeseline",
-      "total": 198,
-      "today_gain": 0,
-      "last_hour_gain": 0,
-      "updated_at": "2026-07-07 13:01",
+      "total": 271,
+      "today_gain": 73,
+      "last_hour_gain": 73,
+      "updated_at": "2026-07-07 15:00",
       "history": [
         {
           "timestamp": "2026-07-06 13:00",
@@ -500,6 +508,23 @@
         {
           "timestamp": "2026-07-07 13:01",
           "total": 198
+        },
+        {
+          "timestamp": "2026-07-07 15:00",
+          "total": 271
+        }
+      ]
+    },
+    {
+      "employee": "Brenda",
+      "total": 10,
+      "today_gain": 0,
+      "last_hour_gain": 0,
+      "updated_at": "2026-07-07 15:00",
+      "history": [
+        {
+          "timestamp": "2026-07-07 15:00",
+          "total": 10
         }
       ]
     }
@@ -507,12 +532,8 @@
   "handover": {
     "latest_count": 2,
     "last_hour_change": 0,
-    "updated_at": "2026-07-07 14:00",
+    "updated_at": "2026-07-07 15:00",
     "history": [
-      {
-        "timestamp": "2026-07-06 10:00",
-        "count": 805
-      },
       {
         "timestamp": "2026-07-06 11:00",
         "count": 414
@@ -555,6 +576,10 @@
       },
       {
         "timestamp": "2026-07-07 14:00",
+        "count": 2
+      },
+      {
+        "timestamp": "2026-07-07 15:00",
         "count": 2
       }
     ]
