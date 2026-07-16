@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-16 12:01",
+  "generated_at": "2026-07-16 13:01",
   "week_start": "2026-07-13",
-  "latest_update": "2026-07-16 12:00",
+  "latest_update": "2026-07-16 13:00",
   "scan": [
     {
       "employee": "Lucky",
@@ -625,12 +625,8 @@
   "handover": {
     "latest_count": 2,
     "last_hour_change": 0,
-    "updated_at": "2026-07-16 12:00",
+    "updated_at": "2026-07-16 13:00",
     "history": [
-      {
-        "timestamp": "2026-07-15 08:59",
-        "count": 268
-      },
       {
         "timestamp": "2026-07-15 10:00",
         "count": 70
@@ -673,6 +669,10 @@
       },
       {
         "timestamp": "2026-07-16 12:00",
+        "count": 2
+      },
+      {
+        "timestamp": "2026-07-16 13:00",
         "count": 2
       }
     ]
