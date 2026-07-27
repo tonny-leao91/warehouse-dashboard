@@ -1,35 +1,14 @@
 {
-  "generated_at": "2026-07-27 09:01",
+  "generated_at": "2026-07-27 10:01",
   "week_start": "2026-07-27",
-  "latest_update": "2026-07-27 09:00",
+  "latest_update": "2026-07-27 10:00",
   "scan": [
     {
-      "employee": "Lucky",
-      "total": 239,
-      "today_gain": 137,
-      "last_hour_gain": 61,
-      "updated_at": "2026-07-27 09:00",
-      "history": [
-        {
-          "timestamp": "2026-07-27 08:03",
-          "total": 102
-        },
-        {
-          "timestamp": "2026-07-27 08:36",
-          "total": 178
-        },
-        {
-          "timestamp": "2026-07-27 09:00",
-          "total": 239
-        }
-      ]
-    },
-    {
       "employee": "Brenda",
-      "total": 227,
-      "today_gain": 125,
-      "last_hour_gain": 56,
-      "updated_at": "2026-07-27 09:00",
+      "total": 364,
+      "today_gain": 262,
+      "last_hour_gain": 137,
+      "updated_at": "2026-07-27 10:00",
       "history": [
         {
           "timestamp": "2026-07-27 08:03",
@@ -42,15 +21,44 @@
         {
           "timestamp": "2026-07-27 09:00",
           "total": 227
+        },
+        {
+          "timestamp": "2026-07-27 10:00",
+          "total": 364
+        }
+      ]
+    },
+    {
+      "employee": "Lucky",
+      "total": 329,
+      "today_gain": 227,
+      "last_hour_gain": 90,
+      "updated_at": "2026-07-27 10:00",
+      "history": [
+        {
+          "timestamp": "2026-07-27 08:03",
+          "total": 102
+        },
+        {
+          "timestamp": "2026-07-27 08:36",
+          "total": 178
+        },
+        {
+          "timestamp": "2026-07-27 09:00",
+          "total": 239
+        },
+        {
+          "timestamp": "2026-07-27 10:00",
+          "total": 329
         }
       ]
     },
     {
       "employee": "Brendan",
-      "total": 147,
-      "today_gain": 103,
-      "last_hour_gain": 50,
-      "updated_at": "2026-07-27 09:00",
+      "total": 248,
+      "today_gain": 204,
+      "last_hour_gain": 101,
+      "updated_at": "2026-07-27 10:00",
       "history": [
         {
           "timestamp": "2026-07-27 08:03",
@@ -63,15 +71,19 @@
         {
           "timestamp": "2026-07-27 09:00",
           "total": 147
+        },
+        {
+          "timestamp": "2026-07-27 10:00",
+          "total": 248
         }
       ]
     },
     {
       "employee": "Patricia",
-      "total": 136,
-      "today_gain": 88,
-      "last_hour_gain": 41,
-      "updated_at": "2026-07-27 09:00",
+      "total": 221,
+      "today_gain": 173,
+      "last_hour_gain": 85,
+      "updated_at": "2026-07-27 10:00",
       "history": [
         {
           "timestamp": "2026-07-27 08:03",
@@ -84,15 +96,19 @@
         {
           "timestamp": "2026-07-27 09:00",
           "total": 136
+        },
+        {
+          "timestamp": "2026-07-27 10:00",
+          "total": 221
         }
       ]
     },
     {
       "employee": "Carolina M",
-      "total": 102,
-      "today_gain": 91,
-      "last_hour_gain": 34,
-      "updated_at": "2026-07-27 09:00",
+      "total": 162,
+      "today_gain": 151,
+      "last_hour_gain": 60,
+      "updated_at": "2026-07-27 10:00",
       "history": [
         {
           "timestamp": "2026-07-27 08:03",
@@ -105,20 +121,20 @@
         {
           "timestamp": "2026-07-27 09:00",
           "total": 102
+        },
+        {
+          "timestamp": "2026-07-27 10:00",
+          "total": 162
         }
       ]
     }
   ],
   "putaway": [],
   "handover": {
-    "latest_count": 1267,
-    "last_hour_change": -280,
-    "updated_at": "2026-07-27 09:00",
+    "latest_count": 715,
+    "last_hour_change": -552,
+    "updated_at": "2026-07-27 10:00",
     "history": [
-      {
-        "timestamp": "2026-07-23 14:00",
-        "count": 2
-      },
       {
         "timestamp": "2026-07-23 15:00",
         "count": 8
@@ -162,6 +178,10 @@
       {
         "timestamp": "2026-07-27 09:00",
         "count": 1267
+      },
+      {
+        "timestamp": "2026-07-27 10:00",
+        "count": 715
       }
     ]
   }
