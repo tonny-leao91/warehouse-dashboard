@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-03 12:01",
+  "generated_at": "2026-08-03 13:01",
   "week_start": "2026-08-03",
-  "latest_update": "2026-08-03 12:00",
+  "latest_update": "2026-08-03 13:00",
   "scan": [
     {
       "employee": "Brenda",
-      "total": 497,
-      "today_gain": 328,
-      "last_hour_gain": 119,
-      "updated_at": "2026-08-03 12:00",
+      "total": 503,
+      "today_gain": 334,
+      "last_hour_gain": 6,
+      "updated_at": "2026-08-03 13:00",
       "history": [
         {
           "timestamp": "2026-08-03 08:41",
@@ -29,15 +29,19 @@
         {
           "timestamp": "2026-08-03 12:00",
           "total": 497
+        },
+        {
+          "timestamp": "2026-08-03 13:00",
+          "total": 503
         }
       ]
     },
     {
       "employee": "Lucky",
-      "total": 439,
-      "today_gain": 256,
-      "last_hour_gain": 103,
-      "updated_at": "2026-08-03 12:00",
+      "total": 492,
+      "today_gain": 309,
+      "last_hour_gain": 53,
+      "updated_at": "2026-08-03 13:00",
       "history": [
         {
           "timestamp": "2026-08-03 08:41",
@@ -58,15 +62,19 @@
         {
           "timestamp": "2026-08-03 12:00",
           "total": 439
+        },
+        {
+          "timestamp": "2026-08-03 13:00",
+          "total": 492
         }
       ]
     },
     {
       "employee": "Carolina M",
-      "total": 386,
-      "today_gain": 248,
-      "last_hour_gain": 65,
-      "updated_at": "2026-08-03 12:00",
+      "total": 443,
+      "today_gain": 305,
+      "last_hour_gain": 57,
+      "updated_at": "2026-08-03 13:00",
       "history": [
         {
           "timestamp": "2026-08-03 08:41",
@@ -87,6 +95,10 @@
         {
           "timestamp": "2026-08-03 12:00",
           "total": 386
+        },
+        {
+          "timestamp": "2026-08-03 13:00",
+          "total": 443
         }
       ]
     },
@@ -94,8 +106,8 @@
       "employee": "Patricia",
       "total": 379,
       "today_gain": 303,
-      "last_hour_gain": 121,
-      "updated_at": "2026-08-03 12:00",
+      "last_hour_gain": 0,
+      "updated_at": "2026-08-03 13:00",
       "history": [
         {
           "timestamp": "2026-08-03 08:41",
@@ -116,6 +128,10 @@
         {
           "timestamp": "2026-08-03 12:00",
           "total": 379
+        },
+        {
+          "timestamp": "2026-08-03 13:00",
+          "total": 379
         }
       ]
     },
@@ -123,8 +139,8 @@
       "employee": "Irania M",
       "total": 342,
       "today_gain": 180,
-      "last_hour_gain": 18,
-      "updated_at": "2026-08-03 12:00",
+      "last_hour_gain": 0,
+      "updated_at": "2026-08-03 13:00",
       "history": [
         {
           "timestamp": "2026-08-03 08:41",
@@ -145,15 +161,19 @@
         {
           "timestamp": "2026-08-03 12:00",
           "total": 342
+        },
+        {
+          "timestamp": "2026-08-03 13:00",
+          "total": 342
         }
       ]
     },
     {
       "employee": "Brendan",
-      "total": 278,
-      "today_gain": 155,
-      "last_hour_gain": 35,
-      "updated_at": "2026-08-03 12:00",
+      "total": 298,
+      "today_gain": 175,
+      "last_hour_gain": 20,
+      "updated_at": "2026-08-03 13:00",
       "history": [
         {
           "timestamp": "2026-08-03 08:41",
@@ -174,20 +194,20 @@
         {
           "timestamp": "2026-08-03 12:00",
           "total": 278
+        },
+        {
+          "timestamp": "2026-08-03 13:00",
+          "total": 298
         }
       ]
     }
   ],
   "putaway": [],
   "handover": {
-    "latest_count": 224,
-    "last_hour_change": -463,
-    "updated_at": "2026-08-03 12:00",
+    "latest_count": 306,
+    "last_hour_change": 82,
+    "updated_at": "2026-08-03 13:00",
     "history": [
-      {
-        "timestamp": "2026-07-31 09:00",
-        "count": 295
-      },
       {
         "timestamp": "2026-07-31 10:00",
         "count": 110
@@ -231,6 +251,10 @@
       {
         "timestamp": "2026-08-03 12:00",
         "count": 224
+      },
+      {
+        "timestamp": "2026-08-03 13:00",
+        "count": 306
       }
     ]
   }
