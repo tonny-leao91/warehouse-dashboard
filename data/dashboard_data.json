@@ -1,18 +1,14 @@
 {
-  "generated_at": "2026-08-10 09:03",
+  "generated_at": "2026-08-10 11:00",
   "week_start": "2026-08-10",
-  "latest_update": "2026-08-07 11:00",
+  "latest_update": "2026-08-10 11:00",
   "scan": [],
   "putaway": [],
   "handover": {
     "latest_count": 3,
     "last_hour_change": 0,
-    "updated_at": "2026-08-07 11:00",
+    "updated_at": "2026-08-10 11:00",
     "history": [
-      {
-        "timestamp": "2026-08-04 13:00",
-        "count": 10
-      },
       {
         "timestamp": "2026-08-04 14:00",
         "count": 10
@@ -55,6 +51,10 @@
       },
       {
         "timestamp": "2026-08-07 11:00",
+        "count": 3
+      },
+      {
+        "timestamp": "2026-08-10 11:00",
         "count": 3
       }
     ]
